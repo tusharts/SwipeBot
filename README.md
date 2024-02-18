@@ -21,6 +21,8 @@ AutoSwipe is a batch script for automating left and right swipes in dating apps 
 4. Follow the prompts to configure swipe settings and repetitions.
 5. Sit back and let AutoSwipe automate the swiping process for you!
 
+**Note:** Do not run this script before connecting the devices, otherwise, the script will keep running, increasing CPU usage. Use Ctrl+C to stop, then it will ask "Terminate batch job (Y/N)?" type Y.
+
 ## Windows SmartScreen Alert
 
 **Note:** When running the script on Windows, you may encounter a Windows SmartScreen alert, which warns about running unrecognized apps. To bypass this alert:
