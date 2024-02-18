@@ -21,6 +21,27 @@ AutoSwipe is a batch script for automating left and right swipes in dating apps 
 4. Follow the prompts to configure swipe settings and repetitions.
 5. Sit back and let AutoSwipe automate the swiping process for you!
 
+## Windows SmartScreen Alert
+
+**Note:** When running the script on Windows, you may encounter a Windows SmartScreen alert, which warns about running unrecognized apps. To bypass this alert:
+
+- Click on "More info" in the Windows SmartScreen dialog.
+- Click on "Run anyway" to proceed with running the script.
+
+By following these steps, you can safely run the script and proceed with automating left and right swipes in dating apps without any interruptions.
+
+## Safety
+
+AutoSwipe is designed to automate swiping actions in dating apps using ADB. While the script itself is safe to use, it's essential to exercise caution and responsibility when using it. Here are some safety considerations:
+
+- **Use Responsibly**: AutoSwipe should be used responsibly and in compliance with the terms of service of the dating apps you use. Avoid excessive or unauthorized use of the script.
+
+- **Review Code**: If you have concerns about the safety or functionality of the script, you can review the code in the `autoswipe.bat` file to ensure transparency and security.
+
+- **Keep Software Updated**: Ensure that you have the latest version of ADB installed on your computer to maintain compatibility and security.
+
+By following these safety guidelines, you can use AutoSwipe with confidence and enhance your efficiency in navigating through profiles on dating apps.
+
 ## License
 
 This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
