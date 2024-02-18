@@ -1,7 +1,8 @@
-# AutoSwipe-Automating-Left-Right-Swipes-in-Dating-Apps
-Automate left &amp; right swipes in dating apps with ADB. Enhance efficiency &amp; matchmaking. Compatible with Bumble, Tinder &amp; more. Simplify navigating profiles, customize settings, save time, and focus on connections. Streamline your experience and enjoy a more efficient dating journey
+# AutoSwipe: Automating Left & Right Swipes in Dating Apps
 
-# AutoSwipe
+Automate left & right swipes in dating apps with ADB. Enhance efficiency & matchmaking. Compatible with Bumble, Tinder & more. Simplify navigating profiles, customize settings, save time, and focus on connections. Streamline your experience and enjoy a more efficient dating journey.
+
+## AutoSwipe
 
 AutoSwipe is a batch script for automating left and right swipes in dating apps using the Android Debug Bridge (ADB). This script simplifies the process of navigating through profiles on dating apps by automating the swiping actions.
 
@@ -16,7 +17,7 @@ AutoSwipe is a batch script for automating left and right swipes in dating apps 
 
 1. Ensure that you have ADB installed on your computer and USB debugging enabled on your Android device.
 2. Connect your Android device to your computer via USB.
-3. Run the `autoswipe.bat` script using a command prompt:
+3. Run the `autoswipe.bat` script using a command prompt.
 4. Follow the prompts to configure swipe settings and repetitions.
 5. Sit back and let AutoSwipe automate the swiping process for you!
 
@@ -36,4 +37,3 @@ Contributions to improve and enhance AutoSwipe are welcome! Feel free to submit 
 
 - This script is inspired by the need for a more efficient way to navigate through profiles on dating apps.
 - Special thanks to the developers of ADB for providing the tools necessary for interacting with Android devices from a computer.
-
