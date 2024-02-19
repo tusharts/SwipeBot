@@ -13,6 +13,11 @@ AutoSwipe is a batch script for automating left and right swipes in dating apps 
 - **Compatible with ADB**: Utilizes the Android Debug Bridge (ADB) to simulate touchscreen swipes on Android devices.
 - **Efficient Matchmaking**: Enhance your efficiency in navigating through potential matches on dating apps.
 
+## SwipeBot Strategy
+
+The logic behind SwipeBot's swiping strategy is to maintain a balanced approach on dating apps. Research suggests that excessive right swipes may lower your profile's rating, while too many left swipes can decrease your chances of matching with potential partners. To address this, SwipeBot implements a strategy of two right swipes followed by one left swipe. This approach aims to maximize the likelihood of meaningful matches while mitigating the risk of negative consequences. Users can customize this strategy according to their preferences and experiences.
+
+
 ## Usage
 
 1. Ensure that you have ADB installed on your computer and USB debugging enabled on your Android device.
